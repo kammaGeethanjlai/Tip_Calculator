@@ -10,19 +10,12 @@ This app allows users to quickly calculate the tip amount and total bill based o
 - Clean, responsive design with button hover effects
 - Built using only vanilla HTML, CSS, and JS
 
-## 📸 Screenshot
-
-
-
 ## 🔧 Technologies
 - HTML5
 - CSS3 (Flexbox, styling, responsive layout)
 - JavaScript (DOM, functions, basic validation)
 
 ## 🚀 Live Demo  
-[🔗 View it here](https://your-github-username.github.io/tip-calculator/)  
-*(Replace this with your actual link after deployment)*
-
----
+[🔗 View it here] https://kammageethanjlai.github.io/Tip_Calculator/
 
 ### ✅ Just a small sample project — but clean code and design matter.
